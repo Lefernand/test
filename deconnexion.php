@@ -1,4 +1,5 @@
 <?php
+//commentaire
 session_start();
 $_SESSION = array();
 session_destroy();

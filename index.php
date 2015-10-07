@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+//yopupi jai des commentaires
+
 /**
  * Si l'utilisateur se rend sur la page d'identification,
  * déjà identifié, il est redirigé vers la page d'accueil
